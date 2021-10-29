@@ -4,6 +4,7 @@ using namespace std;
 #include <cmath>
 
 //QUESTION NO 1
+// new feature
 //PART a)
 //  .
 bool IsPrime(long long Number)
